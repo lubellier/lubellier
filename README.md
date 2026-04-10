@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lubellier&theme=radical&count_private=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lubellier&layout=compact&theme=radical&hide=html,css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats-beta-snowy-38.vercel.app/api?username=lubellier&show_icons=true&theme=transparent)   ![Top Languages](https://github-readme-stats-beta-snowy-38.vercel.app/api/top-langs/?username=lubellier&layout=compact&theme=transparent)
 <!---
 lubellier/lubellier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
